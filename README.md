@@ -38,3 +38,8 @@ SmartPDFChat/
 ├── requirements.txt     # Python-Abhängigkeiten
 ├── models/              # Lokale LLM-Modelle (.gguf/.ggml)
 └── README.md            # Diese Datei
+
+### 📌 Hinweis
+
+Das Projekt befindet sich in aktiver Weiterentwicklung.  
+Ein separates, benutzerfreundlicheres Frontend ist bereits in Planung, um die AI-Funktionalität optimal zu präsentieren.
